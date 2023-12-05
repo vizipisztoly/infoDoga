@@ -51,4 +51,4 @@ Console.WriteLine($"'b' oldala: {b}");
 Console.WriteLine($"Területe: {terulet}");
 Console.WriteLine($"Kerülete: {kerulet}");
 Console.WriteLine($"Alfa szöge: {af}");
-Console.ReadKey();
+Console.ReadLine();
